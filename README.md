@@ -28,10 +28,10 @@ algorithms and evaluating their performance.
 Content and Use of Files
 ------------------------
 
-*Sector_score
-*LOCATION_ID	
-*PARA_A	
-*Score_A	
+* Sector_score
+* LOCATION_ID	
+* PARA_A	
+* Score_A	
 *Risk_A	
 *PARA_B	
 *Score_B	
