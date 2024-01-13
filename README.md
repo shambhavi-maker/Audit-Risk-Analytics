@@ -28,31 +28,31 @@ algorithms and evaluating their performance.
 Content and Use of Files
 ------------------------
 
-Sector_score
-LOCATION_ID	
-PARA_A	
-Score_A	
-Risk_A	
-PARA_B	
-Score_B	
-Risk_B	
-TOTAL	numbers	
-Risk_C	
-Money_Value	Score_MV	
-Risk_D	
-District_Loss	PROB	
-RiSk_E	
-History	Prob	
-Risk_F	
-Score	Inherent_Risk	
-CONTROL_RISK	
-Detection_Risk	
-Audit_Risk	
-Risk	
-Marks	MONEY_Marks	
-District	Loss	
-LOSS_SCORE	
-History_score
+*Sector_score
+*LOCATION_ID	
+*PARA_A	
+*Score_A	
+*Risk_A	
+*PARA_B	
+*Score_B	
+*Risk_B	
+*TOTAL	numbers	
+*Risk_C	
+*Money_Value	Score_MV	
+*Risk_D	
+*District_Loss	PROB	
+*RiSk_E	
+*History	Prob	
+*Risk_F	
+*Score	Inherent_Risk	
+*CONTROL_RISK	
+*Detection_Risk	
+*Audit_Risk	
+*Risk	
+*Marks	MONEY_Marks	
+*District	Loss	
+*LOSS_SCORE	
+*History_score
 
 
 
