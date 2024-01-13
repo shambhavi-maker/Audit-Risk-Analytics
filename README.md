@@ -15,15 +15,15 @@ This and other data sets are publicly available for download at https://archive.
 
 Requirements
 -------------------
-• PowerBI for visual analysis 
-• Python programming language for data analysis and machine 
+* PowerBI for visual analysis 
+* Python programming language for data analysis and machine 
 learning. 
-• Scikit-learn library for implementing various machine learning 
+* Scikit-learn library for implementing various machine learning 
 algorithms and evaluating their performance.
-• Pandas library for data manipulation and analysis. 
-• Numpy library for numerical computation and linear algebra.
-• Mlxtend library for model tuning and feature selection.
-• Matplotlib for plotting. 
+* Pandas library for data manipulation and analysis. 
+* Numpy library for numerical computation and linear algebra.
+* Mlxtend library for model tuning and feature selection.
+* Matplotlib for plotting. 
 
 Content and Use of Files
 ------------------------
@@ -32,27 +32,27 @@ Content and Use of Files
 * LOCATION_ID	
 * PARA_A	
 * Score_A	
-*Risk_A	
-*PARA_B	
-*Score_B	
-*Risk_B	
-*TOTAL	numbers	
-*Risk_C	
-*Money_Value	Score_MV	
-*Risk_D	
-*District_Loss	PROB	
-*RiSk_E	
-*History	Prob	
-*Risk_F	
-*Score	Inherent_Risk	
-*CONTROL_RISK	
-*Detection_Risk	
-*Audit_Risk	
-*Risk	
-*Marks	MONEY_Marks	
-*District	Loss	
-*LOSS_SCORE	
-*History_score
+* Risk_A	
+* PARA_B	
+* Score_B	
+* Risk_B	
+* TOTAL	numbers	
+* Risk_C	
+* Money_Value	Score_MV	
+* Risk_D	
+* District_Loss	PROB	
+* RiSk_E	
+* History	Prob	
+* Risk_F	
+* Score	Inherent_Risk	
+* CONTROL_RISK	
+* Detection_Risk	
+* Audit_Risk	
+* Risk	
+* Marks	MONEY_Marks	
+* District	Loss	
+* LOSS_SCORE	
+* History_score
 
 
 
